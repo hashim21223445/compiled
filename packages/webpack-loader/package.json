@@ -27,7 +27,7 @@
     "@compiled/css": "^0.14.0",
     "@compiled/utils": "^0.11.2",
     "enhanced-resolve": "^5.15.0",
-    "loader-utils": "^2.0.4",
+    "loader-utils": "^3.2.1",
     "webpack-sources": "^3.2.3"
   },
   "devDependencies": {
@@ -39,7 +39,7 @@
     "react": "^17.0.2",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.1.2",
-    "webpack": "^5.76.1"
+    "webpack": "^5.94.0"
   },
   "peerDependencies": {
     "webpack": ">= 4.46.0"
